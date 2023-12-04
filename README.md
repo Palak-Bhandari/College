@@ -6,3 +6,4 @@ Course Work
 4. CN - Computer Networks
 5. OS - Operating Systems
 6. DAA - Design Analysis of Algorithms
+7. DS - Distributed Systems
