@@ -54,5 +54,6 @@ int main()
         int nextNodeIndex = (i + 1) % numNodes;
         nodes[i].sendToken(nodes[nextNodeIndex]);
     }
+    
     return 0;
 }
